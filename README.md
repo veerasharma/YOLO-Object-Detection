@@ -16,7 +16,7 @@ Install required libraries: pip install ultralytics opency-python
 RUN THE PROJECT:
 python main.py --source person.jpeg
 
-##Project Structure
+PROJECT STRUCTURE:
  - main.py-> main detection script
  - person.jpeg-> sample input image
  - requirements.txt-> dependencies
